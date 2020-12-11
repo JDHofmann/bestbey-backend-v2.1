@@ -1,24 +1,29 @@
-# README
+# Bestbey Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Bestbey is an eCommerce store that brings you superior quality in electronics.
 
-Things you may want to cover:
+Built with a Ruby on Rails API backend (this file), and a React front-end for Flatiron School Software Engineering Program
 
-* Ruby version
 
-* System dependencies
+## Installation
 
-* Configuration
+Once you fork and clone this repo
 
-* Database creation
+Simply run bundle install to install bestbey's backend.
 
-* Database initialization
+```bash
+bundle install
+```
 
-* How to run the test suite
+## Usage
 
-* Services (job queues, cache servers, search engines, etc.)
+Start up your rails server to begin using
 
-* Deployment instructions
+```bash
+rails s
+```
 
-* ...
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+<!-- ## License -->
